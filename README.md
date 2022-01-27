@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@barnwaljitechnical.com**
 
-- ⚡ fact **I enjoy when I do cooding.**
+- ⚡ fact **I enjoy when I do coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
