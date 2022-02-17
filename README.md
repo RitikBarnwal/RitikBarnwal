@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Barnwal</h1>
 <h3 align="center">A passionate developer | Programmer | Content Creator On Youtube from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikbarnwal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ritik121rk" target="blank"><img src="https://img.shields.io/twitter/follow/ritik121rk?logo=twitter&style=for-the-badge" alt="ritik121rk" /></a> </p>
 
 - 🌱 I’m currently learning **Python , HTML , CSS**
 
@@ -12,6 +10,10 @@
 - 📫 How to reach me **contact@barnwaljitechnical.com**
 
 - ⚡ fact **I enjoy when I do coding.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikbarnwal" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ritik121rk" target="blank"><img src="https://img.shields.io/twitter/follow/ritik121rk?logo=twitter&style=for-the-badge" alt="ritik121rk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
