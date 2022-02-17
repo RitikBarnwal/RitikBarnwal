@@ -2,12 +2,14 @@
 <h3 align="center">A passionate developer | Programmer | Content Creator On Youtube from India</h3>
 
 
-
+ <img align="right" src="https://ik.imagekit.io/v4tnzd94kks/rk_-1osrbF7-xaJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645097391657" width="200"/>
 - 🌱 I’m currently learning **Python , HTML , CSS**
+ 
+- 💡 I like to explore new trends and learn new technologies.
 
-- 📝 I regularly write articles on [https://barnwaljitechnical.com](https://barnwaljitechnical.com)
+- 📝 I regularly write articles on [**Barnwal Ji Technical**](https://barnwaljitechnical.com)
 
-- 📫 How to reach me **contact@barnwaljitechnical.com**
+- 📫 How to reach me [**Let's Discuss Something**](mailto:contact@barnwaljitechnical.com)
 
 - ⚡ fact **I enjoy when I do coding.**
 
