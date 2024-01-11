@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ritik121rk" target="blank"><img src="https://img.shields.io/twitter/follow/ritik121rk?logo=twitter&style=for-the-badge" alt="ritik121rk" /></a> </p>
 
-- 🌱 I’m currently learning **Python , HTML , CSS**
+- 🌱 I’m currently learning **Python , HTML , CSS, PHP**
 
-- 📝 I regularly write articles on [https://barnwaljitechnical.com](https://barnwaljitechnical.com)
+- 📝 I am Founder of TextraHost Web Solutions [https://textrahost.in](https://textrahost.in)
 
-- 📫 How to reach me **contact@barnwaljitechnical.com**
+- 📫 How to reach me **ritik@textrahost.in**
 
 - ⚡ fact **I enjoy when I do cooding.**
 
