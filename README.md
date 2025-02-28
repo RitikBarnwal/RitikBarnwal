@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Barnwal</h1>
-<h3 align="center">A passionate developer | Programmer | Content Creator On Youtube from India</h3>
+<h3 align="center">A passionate DevOps Learner | Programmer | Content Creator On Youtube from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikbarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikbarnwal" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python , HTML , CSS, PHP**
 
-- 📝 I am Founder of TextraHost Web Solutions [https://textrahost.in](https://textrahost.in)
+- 📝 Hire our Team to Help you [https://myserverhelper.com](https://myserverhelper.com)
 
-- 📫 How to reach me **ritik@textrahost.in**
+- 📫 How to reach me **hello@myserverhelper.com**
 
 - ⚡ fact **I enjoy when I do cooding.**
 
